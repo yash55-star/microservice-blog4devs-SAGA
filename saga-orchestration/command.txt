@@ -1,0 +1,14 @@
+topics : kafka-topics --list --bootstrap-server localhost:9092
+
+
+Choreography
+
+kafka-console-consumer --topic order-event --bootstrap-server localhost:9092
+
+kafka-console-consumer --topic product-event --bootstrap-server localhost:9092
+
+Orchestration
+
+kafka-console-consumer --topic order-created --bootstrap-server localhost:9092
+
+kafka-console-consumer --topic order-updated --bootstrap-server localhost:9092

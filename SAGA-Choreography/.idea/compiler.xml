@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo (1) (productservice)" />
+        <module name="demo" />
+        <module name="demo (1) (com.DTOs)" />
+        <module name="demo (1) (com.eureka-server)" />
+        <module name="demo (1) (com.order-service)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="11" />
+      <module name="demo (1) (com.DTOs)" target="11" />
+      <module name="demo (1) (com.eureka-server)" target="11" />
+      <module name="demo (1) (com.order-service)" target="11" />
+      <module name="demo (1) (productservice)" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="demo (1) (com.DTOs)" options="-parameters" />
+      <module name="demo (1) (com.eureka-server)" options="-parameters" />
+      <module name="demo (1) (com.order-service)" options="-parameters" />
+      <module name="demo (1) (productservice)" options="-parameters" />
+    </option>
+  </component>
+</project>

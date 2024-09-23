@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SAGA-Choreography.iml" filepath="$PROJECT_DIR$/.idea/SAGA-Choreography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/demo.iml" filepath="$PROJECT_DIR$/ApiGateway/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTransferObjects/demo (1) (com.DTOs).iml" filepath="$PROJECT_DIR$/DataTransferObjects/demo (1) (com.DTOs).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/demo (1) (com.eureka-server).iml" filepath="$PROJECT_DIR$/eureka-server/demo (1) (com.eureka-server).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Choreography-based-SAGA-Order-Service/demo (1) (com.order-service).iml" filepath="$PROJECT_DIR$/Choreography-based-SAGA-Order-Service/demo (1) (com.order-service).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Choreography-based-SAGA-Product-Service/demo (1) (productservice).iml" filepath="$PROJECT_DIR$/Choreography-based-SAGA-Product-Service/demo (1) (productservice).iml" />
+    </modules>
+  </component>
+</project>

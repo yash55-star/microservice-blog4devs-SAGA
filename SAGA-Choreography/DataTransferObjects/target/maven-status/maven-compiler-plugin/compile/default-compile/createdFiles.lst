@@ -1,0 +1,5 @@
+com/dtos/demo/Events/ProductEvent.class
+com/dtos/demo/DataTransferObjectsApplication.class
+com/dtos/demo/Events/ProductStockState.class
+com/dtos/demo/Events/OrderState.class
+com/dtos/demo/Events/OrderEvent.class
